@@ -72,6 +72,8 @@ by the Steering Committee.
 
 The Steering Committee assists the Program Committee chair
 in planning and executing the yearly occurrence of WITS.
+The Steering Committee can be reached at
+[wits-steering@googlegroups.com](mailto:wits-steering@googlegroups.com).
 
 The Steering Committee comprises the following members:
 
