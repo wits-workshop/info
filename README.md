@@ -7,7 +7,8 @@ than the theoretical frameworks that underlie them. In particular, we want to
 encourage exchanging ideas between the communities around specific systems that
 would otherwise be accessible to only a very select group.
 
-* [WITS'25](https://popl25.sigplan.org/home/wits-2025): Planned to be co-located with POPL'25 in Denver, CO on 25 January 2025
+* [WITS'26](https://popl26.sigplan.org/home/wits-2026): Co-located with POPL'26 in Rennes, France on 17 January 2026
+* [WITS'25](https://popl25.sigplan.org/home/wits-2025): Co-located with POPL'25 in Denver, CO on 25 January 2025
 * [WITS'24](https://popl24.sigplan.org/home/wits-2024): Co-located with POPL'24 in London, UK on 20 January 2024
 * [WITS'23](https://ifl23.github.io/wits.html): Co-located with IFL'23 in Braga, Portugal on 28 August 2023
 * [WITS'22](https://popl22.sigplan.org/home/wits-2022): Co-located with POPL'22 in Philadelphia, PA, USA on 22 January 2022
