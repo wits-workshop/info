@@ -90,8 +90,6 @@ The current membership of the Steering Committee is:
 * Stephanie Weirich (at-large member; membership expires after POPL'26)
 * Xavier Leroy (at-large member; membership expires after POPL'28)
 
-One former chair position will be vacant until after POPL'25.
-
 The former WITS chair who will next leave the committee is the chair
 of the Steering Committee. At present, the chair is Jesper Cockx. The
 chair is responsible for initiating a process (ideally an in-person
