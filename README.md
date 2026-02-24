@@ -87,7 +87,7 @@ The current membership of the Steering Committee is:
 * Richard Eisenberg (co-chair 2022, chair 2024; membership expires after POPL'27)
 * Sebastian Ullrich (chair 2025; membership expires after POPL'28)
 * Niki Vazou (chair 2026; membership expires after POPL'29)
-* Yannick Forster (chari 2027; membership expires after POPL'30)
+* Yannick Forster (chair 2027; membership expires after POPL'30)
 * Xavier Leroy (at-large member; membership expires after POPL'28)
 * William Bowman (at-large member; membership expires after POPL'30)
 
