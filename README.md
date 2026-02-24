@@ -84,15 +84,20 @@ The Steering Committee comprises the following members:
 
 The current membership of the Steering Committee is:
 
-* Jesper Cockx (co-chair 2022, chair 2023; membership expires after POPL'26)
 * Richard Eisenberg (co-chair 2022, chair 2024; membership expires after POPL'27)
 * Sebastian Ullrich (chair 2025; membership expires after POPL'28)
 * Niki Vazou (chair 2026; membership expires after POPL'29)
-* Stephanie Weirich (at-large member; membership expires after POPL'26)
+* Yannick Forster (chari 2027; membership expires after POPL'30)
 * Xavier Leroy (at-large member; membership expires after POPL'28)
+* William Bowman (at-large member; membership expires after POPL'30)
+
+Former members of the Steering Committee:
+
+* Jesper Cockx (co-chair 2022, chair 2023; membership expired after POPL'26)
+* Stephanie Weirich (at-large member; membership expires after POPL'26)
 
 The former WITS chair who will next leave the committee is the chair
-of the Steering Committee. At present, the chair is Jesper Cockx. The
+of the Steering Committee. At present, the chair is Richard Eisenberg. The
 chair is responsible for initiating a process (ideally an in-person
 meeting at POPL) to choose the next PC Chair and, in even years,
 at-large member of the Steering Committee. If the SC Chair cannot
